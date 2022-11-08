@@ -1,7 +1,8 @@
 # Theme Picker
 
 A simple theme picker made using the :has() property in CSS
-as well as a fallback for browsers that don't use it (i.e. Firefox)
+as well as a fallback for browsers that don't use it <br>
+(i.e. Firefox)
 
 ## Choose your theme
 
